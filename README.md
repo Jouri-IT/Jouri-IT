@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="logo.png" alt="Logo" width="120" />
   <h1>Hi there, I'm Jouri! 👋</h1>
 </div>
 
