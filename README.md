@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Jouri! 👋
 
-<!--
-**Jouri-IT/Jouri-IT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior IT Student (Data Science & AI) @ KSU**
 
-Here are some ideas to get you started:
+I am passionate about Full Stack Software Engineering and Product Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 **Languages & Tools**
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,c,r,js,html,css,mysql,mongodb,firebase,supabase,figma,netlify,vercel,replit" />
+  </a>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cursor-Editor-black?style=for-the-badge" alt="Cursor" />
+  <img src="https://img.shields.io/badge/Lovable-Builder-orange?style=for-the-badge" alt="Lovable" />
+  <img src="https://img.shields.io/badge/Claude-Code-d97757?style=for-the-badge" alt="Claude" />
+  <img src="https://img.shields.io/badge/Oracle-APEX-F80000?style=for-the-badge" alt="Oracle APEX" />
+</p>
+
+---
+
+### 📫 **Connect with Me**
+* [LinkedIn](https://www.linkedin.com/in/jourialsulaiman/)
+* [Email](mailto:jouri.f.alsulaiman@gmail.com)
