@@ -33,14 +33,6 @@ I am passionate about **Full Stack Software Engineering** and **Product Manageme
 
 ---
 
-### 🔥 **My GitHub Progress**
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jouri-IT&theme=transparent&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Jouri-IT&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</p>
-
----
 
 ### 🤝 **Let's Connect!**
 
