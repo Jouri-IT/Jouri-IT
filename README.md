@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Jouri! 👋</h1>
 </div>
 
-**Junior IT Student (Data Science & AI) @ KSU**
+**IT Student (Data Science & AI Track) @ King Saud University**
 
 I am passionate about **Full Stack Software Engineering** and **Product Management**.
 * 💻 **Full Stack:** I love building apps and website development.
