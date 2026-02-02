@@ -3,7 +3,7 @@
   <h1>Hi there, I'm Jouri! 👋</h1>
 </div>
 
-**IT Student (Data Science & AI) @ KSU**
+**Junior IT Student (Data Science & AI) @ KSU**
 
 I am passionate about **Full Stack Software Engineering** and **Product Management**.
 * 💻 **Full Stack:** I love building apps and website development.
@@ -14,7 +14,7 @@ I am passionate about **Full Stack Software Engineering** and **Product Manageme
 ### ⌨️ **Coding Languages & Databases**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,c,r,js,html,css,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,python,js,html,css,mysql,mongodb" />
   </a>
 </p>
 
