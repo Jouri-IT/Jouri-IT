@@ -25,10 +25,10 @@ I am passionate about **Full Stack Software Engineering** and **Product Manageme
 </p>
 
 <p align="left">
+  <img src="oracle.logo.png" alt="Oracle" height="40" style="margin-right: 10px;" />
   <img src="cursor.logo.png" alt="Cursor" height="40" style="margin-right: 10px;" />
   <img src="lovable.logo.png" alt="Lovable" height="40" style="margin-right: 10px;" />
   <img src="claude.logo.webp" alt="Claude" height="40" style="margin-right: 10px;" />
-  <img src="oracle.logo.png" alt="Oracle" height="40" style="margin-right: 10px;" />
 </p>
 
 ---
